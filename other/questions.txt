@@ -1,8 +1,8 @@
 1. How many hours?
     About 5-6 , though the vast majority of this 
-    was CSS styling. I took my time doing this, 
-    I feel as though I could have completed it 
-    quicker.
+    was getting the styling right. 
+    I took my time doing this and I feel as though 
+    I could have completed it quicker.
 
 2. Online resources?
     Mainly your classes and previous experience. 
@@ -17,14 +17,13 @@
 5. Rate difficulty?
     Easy for the semantic HTML.
     The CSS was not difficult, just took a bit of time/tinkering.
-    Would be very confident with higher difficulty.
+    Would be confident with higher difficulty.
 
     The hardest part by far was having to stay within
     the confines of what we've learned in class
     so far. Having previous experience, it was
     tough to separate what I know versus what
-    we've done. I'm sure you'll find a few instances
-    of things we haven't necessarily covered in class!
+    we've done.
 
     I know this is a problem specific to me, and
     I understand that others don't have the
