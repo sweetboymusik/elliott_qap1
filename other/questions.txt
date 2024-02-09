@@ -1,8 +1,10 @@
 1. How many hours?
-    About 5-6 , though the vast majority of this 
-    was getting the styling right. 
+    About 6 hours, though the vast majority of this 
+    was getting the styling right and writing the content. 
     I took my time doing this and I feel as though 
     I could have completed it quicker.
+    The semantic HTML itself (without the styling elements like div containers)
+    only took about 30 minutes.
 
 2. Online resources?
     Mainly your classes and previous experience. 
